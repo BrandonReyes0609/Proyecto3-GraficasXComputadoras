@@ -1,12 +1,12 @@
-# Modulo7-GraficasXComputadoras (Space Travel)
+# Proyecto 5 - GraficasXComputadoras (Space Travel)
 
-Modulo7 - Space Travel
+**Proyecto Final: Space Travel**
 
-``git clone https://github.com/BrandonReyes0609/Laboratorio4-GraficasXComputadoras.git``
+``git clone https://github.com/BrandonReyes0609/Proyecto3-GraficasXComputadoras.git``
 
-``cd Laboratorio4-GraficasXComputadoras``
+``cd Proyecto3-GraficasXComputadoras``
 
-## Códigos importantes
+## Códigos ejecutar
 
 ``cargo run``
 
@@ -14,24 +14,28 @@ Modulo7 - Space Travel
 
 ``./target/release/codigo``
 
+## Manejo de la nave
 
-## Códigos importantes repositorio-githusb
+Controles:
 
-1. Crear la nueva rama
+Teclado
 
-``git checkout -b NRAMA``
+* **`W`** : Mover hacia adelante, reduciendo la posición en el eje `Z`.
+* **`S`** : Mover hacia atrás, aumentando la posición en el eje `Z`.
+* **`A`** : Mover hacia la izquierda, reduciendo la posición en el eje `X`.
+* **`D`** : Mover hacia la derecha, aumentando la posición en el eje `X`.
+* **`ESPACIO`** : Dispara rayos laser la nave espacial.
 
-2. Añadir todos los archivos
+Controles:
 
-``git add .`` 
-
-3. Realizar el commit
-
-``git commit -m "mcambios NRAMA"``
-
-4. Subir la nueva rama al repositorio remoto
-
-``git push origin NRAMA``
+* Girar scrol hacia adelante: Acercar zoom.
+* Girar scrol hacia atras: Alejar zoom.
+* preciona scrol y mover mouse: gira la nave.
 
 
-![1731891729655](image/README/1731891729655.png)
+Video Youtrube
+
+* [https://youtu.be/pGrqUPz90K4](https://youtu.be/pGrqUPz90K4 "https://youtu.be/pGrqUPz90K4")
+
+
+![1732327073709](image/README/1732327073709.png)
