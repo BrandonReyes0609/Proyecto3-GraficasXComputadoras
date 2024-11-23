@@ -1,4 +1,4 @@
-# Proyecto 5 - GraficasXComputadoras (Space Travel)
+# Proyecto 3 - GraficasXComputadoras (Space Travel)
 
 **Proyecto Final: Space Travel**
 
